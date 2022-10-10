@@ -1,9 +1,9 @@
 # CS501
 
-A clear structure that helps you check your homework.
+*A clear structure that helps you check your homework.*
 
 
-(?) stands for unspecific type not mentioned in the instruction.
+*(?) stands for unspecific type not mentioned in the instruction.*
 
 
 ## MyRectangle2D
