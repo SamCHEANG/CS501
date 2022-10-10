@@ -6,7 +6,7 @@ A clear structure that helps you check your homework.
 (?) stands for unspecific type not mentioned in the instruction.
 
 
-# MyRectangle2D
+## MyRectangle2D
 
 double x, y; // (a)
 
@@ -46,7 +46,7 @@ boolean overlaps(MyRectangle2D r){} // if the specified rectangle **overlaps wit
 
 
 
-# Circle2D
+## Circle2D
 
 double x, y; // (a)
 
@@ -74,7 +74,7 @@ public boolean overlaps(Circle2D circle) // if the specified circle **overlaps w
 
 
 
-# Account
+## Account
 
 private int id; // (a)
 
@@ -106,7 +106,7 @@ public Date getDate(){} // (h)
 
 
 
-# AccountNew extends Account
+## AccountNew extends Account
 
 String name; // (a)
 
